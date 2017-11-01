@@ -2,6 +2,8 @@
 
 Testbed and demo application for <a href="https://github.com/xailabs/react-reveal-text" target="_blank">@xailabs/react-reveal-text</a>.
 
+<center><img src="./demo.gif" alt="demo" /></center>
+
 ## Installation and usage
 
 ```
