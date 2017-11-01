@@ -1,0 +1,23 @@
+{
+  "name": "@xailabs/react-reveal-text-demo",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Jovica Aleksic <jovica.aleksic@xailabs.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:xailabs/react-reveal-text-demo.git"
+  },
+  "dependencies": {
+    "@xailabs/react-reveal-text": "^1.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.16"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
